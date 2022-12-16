@@ -43,4 +43,15 @@ response:
   example:
     {"name": "Coke", "price": 79, "amount": 10}
 ---------------------------------------------------------
+DELETE
+
+request:
+  URI
+    "/card/delete?id=*your integer value*"
+  example:
+    "/card/delete?id=1
+    
+response:
+"record succesfully deleted" if delete is success, error if delete is failed.
+
 Wish you enjoy using it!
