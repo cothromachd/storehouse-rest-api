@@ -1,5 +1,5 @@
 This API implements a system of interaction with your storehouse.
-It can register a new item, change its state, and delete it.
+It can register a new item, get and change its state, and delete it.
 
 Little guide of usage:
 ---------------------------------------------------------
